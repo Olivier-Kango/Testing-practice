@@ -1,62 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# To Do list: add & remove
 
-> Description the project.
-
+> In this project, I implement a the test for JavaScript using jest
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Languages: JavaScript
+- Technologies used: JavaScript, Jest 
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## Live Demo
 
 To get a local copy up and running follow these simple example steps.
 
+## Getting Started
+
+
 ### Prerequisites
+
+To run this app on your local computer you need the browser (Google Chrome is the best)
 
 ### Setup
 
+- Clone the repository on your local machine
+- Cd into the folder
+- npm run watch
+
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Install VSCode or any code editor you like
+- Install npm by running npm install
+- run: npm start
 
 ## Authors
 
-👤 **Author1**
+👤 **Oliver Kango**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubolivier](https://github.com/Olivier-Kango)
+- Twitter: [@twitterolivier](https://twitter.com/olivierkango1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olivier-kango-b990601b8/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Olivier-Kango/To-Do-List/issues/new).
 
 ## Show your support
 
