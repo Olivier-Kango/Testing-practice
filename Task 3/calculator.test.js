@@ -116,8 +116,7 @@ describe('The divide method:', () => {
     const output = 'Your answer is: 5';
 
     // Act
-     // Act
-     const result = calculatorMethod.divide(a, b);
+    const result = calculatorMethod.divide(a, b);
 
     // Asserts
     expect(result).toEqual(output);
